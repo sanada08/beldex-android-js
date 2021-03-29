@@ -1,3 +1,3 @@
 export default {
-	API__authority: "api.mymonero.com:8443"
+	API__authority: "http://e1fc093d10b9.ngrok.io"
 };
